@@ -1,6 +1,6 @@
-# OphtalmoPro
+# Ma Parfumerie
 
-Application de gestion de cabinet ophtalmologique développée en Python.
+Application de gestion de stock pour une parfumerie.
 
 ## 📋 Contexte
 
@@ -8,28 +8,23 @@ Projet réalisé dans le cadre du BTS Développement d'Applications Informatique
 
 ## 🛠️ Technologies
 
-- **Langage** : Python
-- **Interface** : Tkinter
-- **Base de données** : SQLite
+- **Langage** : Java
+- **Interface** : Swing
+- **Base de données** : MySQL
+- **IDE** : NetBeans
 
 ## ✨ Fonctionnalités
 
-- Authentification sécurisée
-- Gestion des patients
-- Gestion des rendez-vous
-- Suivi des consultations
-- Gestion des analyses médicales
-- Génération de reçus/documents en PDF
-- Application organisée en 12 modules
+- Gestion des produits
+- Gestion des fournisseurs
+- Entrées et sorties de stock
+- Facturation
+- Impression des factures
+- Recherche de produits
 
 ## 🚀 Installation
 
-\`\`\`bash
-git clone https://github.com/angele2007/ophtalmo-bts.git
-cd ophtalmo-bts
-pip install -r requirements.txt
-python main.py
-\`\`\`
+Ouvrir le projet dans NetBeans, configurer la connexion MySQL, puis lancer l'exécution.
 
 ## 👤 Auteur
 
